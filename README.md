@@ -1,5 +1,5 @@
 # Navneet-Kumar
-![logo](https://github.com/Navneet602/Navneet-Kumar/blob/main/background.png)
+![logo]([https://github.com/Navneet602/Navneet-Kumar/blob/main/background.png](https://github.com/Navneet602/Navneet602/blob/main/background.png))
 <h1 align="center">Hi 👋, I'm Navneet Kumar</h1>
 <h3 align="center">I'm a passionate Data analyst</h3>
 
